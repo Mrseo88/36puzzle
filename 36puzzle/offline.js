@@ -1,0 +1,31 @@
+﻿{
+	"version": 1534506899,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/blue-sheet0.png",
+		"images/blue-sheet1.png",
+		"images/numb.png",
+		"images/reset-sheet0.png",
+		"images/help-sheet0.png",
+		"images/leader-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/lose_btc-sheet0.png",
+		"images/lbotc-sheet0.png",
+		"images/win-sheet0.png",
+		"images/pl-sheet0.png",
+		"images/line1-sheet0.png",
+		"images/cup-sheet0.png",
+		"media/ok - 1.m4a",
+		"media/ok - 1.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
