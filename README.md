@@ -9,3 +9,5 @@ next sequence of numbers  can be placed only  skipping two pieces  in one of 4 d
 [HTML5 DEMO](https://www.scirra.com/arcade/puzzle-games/36-game-33934)
 
 [ANDROID DOWNLOAD](https://play.google.com/store/apps/details?id=com.funonzia.game36)
+
+[IOS DOWNLOAD](https://itunes.apple.com/us/app/bounce-balls-game/id1431333138?l=it&ls=1&mt=8)
